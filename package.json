@@ -23,7 +23,9 @@
     "mysql2": "^3.10.1",
     "path": "^0.12.7",
     "pdfkit": "^0.15.0",
-    "sequelize": "^6.37.3"
+    "sequelize": "^6.37.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
     "sequelize-cli": "^6.6.2"
