@@ -1,3 +1,9 @@
+## Live Backend Docs
+https://node-js-my-sql-sequalize.onrender.com/api-docs/
+
+## Live Backend with auth
+https://node-js-my-sql-sequalize.onrender.com/
+
 # for migrating database
 npm install --save-dev sequelize-cli
 
